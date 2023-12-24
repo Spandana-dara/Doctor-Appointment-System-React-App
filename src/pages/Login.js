@@ -26,7 +26,7 @@ const Login = () => {
           <button className="btn btn-primary register-button" type="submit">
             Login
           </button>
-          <Link to="/register">Not a User? Register here</Link>
+          <Link to="/register">Not a User? Register</Link>
         </Form>
       </div>
     </>
